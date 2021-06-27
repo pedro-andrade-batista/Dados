@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dados</string>
+    <string name="clique_no_bot_o_abaixo_para_jogar_o_dado">Clique no botão abaixo para jogar o dado</string>
+    <string name="jogar">Jogar</string>
+    <string name="selecione_o_numero_de_dados">Selecione o numero de dados</string>
+    <string name="entre_com_o_numero_de_faces">Entre com o numero de faces</string>
+    <string name="salvar">Salvar</string>
+</resources>
